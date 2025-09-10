@@ -1,4 +1,3 @@
-# cybersecurity-lab
 # Cybersecurity Lab Portfolio 🛡️⚔️
 
 This repo contains my hands-on cybersecurity projects, combining Red Team attacks and Blue Team detections.
