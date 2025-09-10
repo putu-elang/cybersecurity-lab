@@ -7,7 +7,9 @@ This repo contains my hands-on cybersecurity projects, combining Red Team attack
 - SSH Brute Force Attack (Hydra)
 
 ## 🔵 Blue Team Projects
-- Wazuh SIEM detections (brute force, nmap scan, malware download)
+- Wazuh SIEM detections
+  1. Brute Force
+  2. Malware Download
 
 ## 🛠 Tools Used
 - Wazuh SIEM
