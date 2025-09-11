@@ -22,7 +22,7 @@ The goal is to test how brute force attack can be done in a honelab settings and
 ```bash
 hydra -l fakeuser -P /usr/share/wordlists/rockyou.txt ssh://<Target IP>
 ```
-[Attack Proceeding](https://github.com/putu-elang/cybersecurity-lab/blob/main/red-team/ssh-bruteforce/hydra%20command%20line.png)
+![Attack Proceeding](https://github.com/putu-elang/cybersecurity-lab/blob/main/red-team/ssh-bruteforce/hydra%20command%20line.png)
 
 ---
 
@@ -30,7 +30,7 @@ hydra -l fakeuser -P /usr/share/wordlists/rockyou.txt ssh://<Target IP>
 -Hydra attempted 3,592 login attempts against the target.
 -No valid credentials were cracked (username/password mismatch).
 -Attack generated thousands of failed login logs in /var/log/auth.log.
-[Auth Log](https://github.com/putu-elang/cybersecurity-lab/blob/main/blue-team/ssh_bruteforce/screenshots/Linux%20Auth%20Log.png)
+![Auth Log](https://github.com/putu-elang/cybersecurity-lab/blob/main/blue-team/ssh_bruteforce/screenshots/Linux%20Auth%20Log.png)
 
 ---
 
