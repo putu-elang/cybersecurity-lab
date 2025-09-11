@@ -5,8 +5,8 @@ It includes **detection, configuration and analysis** performed with Wazuh after
 The goal is to showcase **incident detection, monitoring and log analysis skills**.
 
 ## 📂 Contents
-
--[SSH Brute Force Attack](https://github.com/putu-elang/cybersecurity-lab/tree/main/blue-team/ssh_bruteforce)
+- [SSH Brute Force Attack](https://github.com/putu-elang/cybersecurity-lab/tree/main/blue-team/ssh_bruteforce)
+- **More scenarios will be added in the future
 
 ## 🛠️ Environment
 - **SIEM**: Wazuh 
