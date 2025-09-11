@@ -32,3 +32,10 @@ The configuration was **left at default (no ossec.conf modifications)** to test 
 
 3. **Rule 5758** – Maximum authentication attempts reached.  
    ![Rule 5758](https://github.com/putu-elang/cybersecurity-lab/blob/main/blue-team/ssh_bruteforce/screenshots/Rule%205758.png)  
+
+---
+
+##📌 Lessons Learned
+1.The attack triggered multiple Wazuh rules by default, showing SIEM strength.
+2.Useful MITRE ATT&CK mapping: T1110 – Brute Force.
+3.An active defense strategy could include auto-blocking IPs after repeated failures.
