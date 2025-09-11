@@ -1,7 +1,7 @@
 # 🔵 Blue Team Operations
 
 This folder contains the defensive security excersises used in my **cybersecurity homelab**.
-It includes **detection, configuration and analysis** performed with Wazuh after simulating attacks from the Red Team.
+It includes **detection, configuration and analysis** performed with Wazuh after simulating attacks from the [Red Team](https://github.com/putu-elang/cybersecurity-lab/tree/main/red-team).
 The goal is to showcase **incident detection, monitoring and log analysis skills**.
 
 ## 📂 Contents
