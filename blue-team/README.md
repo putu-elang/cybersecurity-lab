@@ -11,4 +11,5 @@ The goal is to showcase **incident detection, monitoring and log analysis skills
 ## 🛠️ Environment
 - **SIEM**: Wazuh 
 - **Agents**: Linux / Windows 11 
-- **Attack Sources**: Kali Linux, custom scripts, test malware  
+- **Attack Sources**: Kali Linux, custom scripts, test malware
+- **Manager: Ubuntu Server
