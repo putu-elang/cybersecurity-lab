@@ -1,4 +1,4 @@
-**# 🔴 SSH Brute Force Attack Lab
+# 🔴 **SSH Brute Force Attack Lab**
 
 ## 📖 Overview
 This lab simulates a brute force attack against an SSH service using **Hydra**.  
