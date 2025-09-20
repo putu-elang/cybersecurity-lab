@@ -17,24 +17,24 @@ There is a slight tweak on **Wazuh SIEM's ossec.conf** to make it able to take i
 ---
 
 ## 🛡️ Documentation
+- Configuring the ossec.conf to enable it to take logs from **Windows Defender.**
+  ![ossec.conf changes](https://github.com/putu-elang/cybersecurity-lab/blob/main/blue-team/KnownVirus/Screenshots/XML%20addition%20for%20%20windows%20%20defender%20log.png)
+
 - EICAR file creation **(The malware)**
-  ![EICAR File}()
+  ![EICAR File](https://github.com/putu-elang/cybersecurity-lab/blob/main/blue-team/KnownVirus/Screenshots/EICAR%20string.png)
 
 - Running the EICAR file
-  ![Opening the EICAR file]()
-
-- Configuring the ossec.conf to enable it to take logs from **Windows Defender.**
-  ![ossec.conf changes]()
+  ![Opening the EICAR file](https://github.com/putu-elang/cybersecurity-lab/blob/main/blue-team/KnownVirus/Screenshots/EICAR%20%20run.png)
 
 - Wazuh logs detects installation of potential **malware** on Windows Agent.
-  ![Wazuh Logs]()
+  ![Wazuh Logs](https://github.com/putu-elang/cybersecurity-lab/blob/main/blue-team/KnownVirus/Screenshots/Wazuh%20%20Dashboard.png)
 
 -Double check the logs with **Windows Defender logs.**
-  ![Windows Defender Logs]()
+  ![Windows Defender Logs](https://github.com/putu-elang/cybersecurity-lab/blob/main/blue-team/KnownVirus/Screenshots/Defender%20Log.png)
 
 ### ✅ Triggered Rules
 1. **Rule 62123** - Installation of Potential Malware
-   ![Rule 62123]()
+   ![Rule 62123](https://github.com/putu-elang/cybersecurity-lab/blob/main/blue-team/KnownVirus/Screenshots/Ruleset.png)
 
    ---
 
