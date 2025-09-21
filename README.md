@@ -8,7 +8,8 @@ This repo contains my hands-on cybersecurity projects, combining Red Team attack
 ## 🔵 Blue Team Projects
 - Wazuh SIEM detections
   1. Brute Force
-  2. Malware Download (On Progress)
+  2. Malware Download
+  3. Custom malware detection (On Progress)
 
 ## 🛠 Tools Used
 - Wazuh SIEM
